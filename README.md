@@ -9,6 +9,8 @@
 
 A schedule app for Eastside Preparatory School, built with [Google App Engine](https://cloud.google.com/appengine) and [Polymer](https://polymer-project.org).
 
+Foo
+
 ## Running EPSchedule locally
 
 EPSchedule is designed to be *extremely* easy to get running locally - all you need are `git`, Python 3.7+, and `pip`. To set it up, just run:
